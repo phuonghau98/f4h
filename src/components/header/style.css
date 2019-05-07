@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+.logo {
+  font-family: 'Sofia', cursive;
+  user-select: none;
+  font-size: 2em;
+}
